@@ -1,0 +1,4 @@
+funçao parseint para transformar string em int
+parsefloat para números quebrados 
+toString para converter a texto 
+
